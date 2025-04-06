@@ -12,3 +12,8 @@ Skills: Data cleaning, data analysis, data visualization, HR analytics, dashboar
 Technology: Power BI, DAX, Data Modeling.
 
 Results: A comprehensive HR dashboard visualizing workforce distribution, promotion and retrenchment insights, job satisfaction levels, and overtime impact. The insights help HR teams identify areas for improvement, such as employee retention strategies and workload balance.
+
+A few takeaways:
+✅ 5% of employees are due for promotion, while 8% face retrenchment.
+✅ Job satisfaction varies—569 employees reported low satisfaction, a crucial area for HR strategies.
+✅ Overtime distribution matters—85% of employees with low ratings work overtime, raising questions about work-life balance.
